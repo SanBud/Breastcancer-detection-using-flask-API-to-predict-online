@@ -38,9 +38,9 @@ Our main goal is to design a microservice. Which are standalone, manageable, tes
 
 ```
 
-git clone https://github.com/SanBud/SantoshBudni_W11_Graded_Assignment
+git clone https://github.com/SanBud/Breastcancer-detection-using-flask-API-to-predict-online.git
 
-cd SantoshBudni_W11_Graded_Assignment
+cd Breastcancer-detection-using-flask-API-to-predict-online
 ```
 
 
